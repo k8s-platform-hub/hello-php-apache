@@ -1,4 +1,4 @@
 description: A basic PHP application with apache running on Hasura
-keywords: php, apache
+keywords: getting-started, php, apache
 name: hello-php-apache
 platformVersion: v0.15.3
