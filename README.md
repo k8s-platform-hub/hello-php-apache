@@ -36,7 +36,7 @@ $ cd hello-php-apache
 
 ```
 
-![Quickstart](https://raw.githubusercontent.com/hasura/hello-php-apache/new/assets/quickstart.png "Quickstart")
+![Quickstart](https://raw.githubusercontent.com/hasura/hello-php-apache/master/assets/quickstart.png "Quickstart")
 
 The `quickstart` command does the following:
 1. Creates a new folder in the current working directory called `hello-php-apache`
@@ -51,7 +51,7 @@ Everytime you perform a `hasura quickstart <quickstart-name>`, hasura creates a 
 $ hasura cluster status
 ```
 
-![ClusterStatus](https://raw.githubusercontent.com/hasura/hello-php-apache/new/assets/clusterstatus.png "ClusterStatus")
+![ClusterStatus](https://raw.githubusercontent.com/hasura/hello-php-apache/master/assets/clusterstatus.png "ClusterStatus")
 
 The `Cluster Configuration` says that the local and cluster configurations are different, this is because we have not deployed our local project to our cluster. Let's do that next.
 
